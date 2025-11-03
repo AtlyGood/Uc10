@@ -1,0 +1,12 @@
+{
+  "name": "teste_automocao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste_a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
